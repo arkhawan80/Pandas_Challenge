@@ -1,7 +1,6 @@
 # Pandas_Challenge
 
 ### Before You Begin
-
 1. Create a new repository for this project called `pandas-challenge`. **Do not add this homework to an existing repository**.
 
 2. Clone the new repository to your computer.
@@ -13,7 +12,6 @@
 5. Push the above changes to GitHub or GitLab.
 
 ## Option 1: Heroes of Pymoli
-
 ![Fantasy](Images/Fantasy.png)
 
 Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
